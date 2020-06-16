@@ -11,21 +11,21 @@ Sesuai namanya, setiap fungsi aksi memiliki kegunaan yaitu:
 7. Reset Data: Mengosongkan pohon. Jika memilih pilihan tersebut, akan muncul "DATA KOSONG!!"
 8. Keluar: Menghentikan program
 Berikut Tampilan ketika program dirun:
-1. INSERT
+
 ![image](https://user-images.githubusercontent.com/67011383/84790778-f341c200-b01b-11ea-9500-da30a745da1c.png)
-2. TAMPIL DATA
+
 ![image](https://user-images.githubusercontent.com/67011383/84790915-1d937f80-b01c-11ea-8187-4ae01c0e947c.png)
-3. SEARCH
+
 ![image](https://user-images.githubusercontent.com/67011383/84790949-27b57e00-b01c-11ea-88ce-f2564f70b65e.png)
-4. CARI BILANGAN TERBESAR
+
 ![image](https://user-images.githubusercontent.com/67011383/84791023-44ea4c80-b01c-11ea-8019-df443f83744c.png)
-5. CARI BILANGAN TERKECIL
+
 ![image](https://user-images.githubusercontent.com/67011383/84791044-4ca9f100-b01c-11ea-97b8-4d4c39bf1ede.png)
-6. HAPUS DATA
+
 ![image](https://user-images.githubusercontent.com/67011383/84791068-53d0ff00-b01c-11ea-9179-e2e131d5890f.png)
-7. RESET DATA
+
 ![image](https://user-images.githubusercontent.com/67011383/84791094-5df2fd80-b01c-11ea-9877-230cd5607fe2.png)
-8. KELUAR
+
 ![image](https://user-images.githubusercontent.com/67011383/84791113-65b2a200-b01c-11ea-82b0-6d1ac169ce40.png)
 
  
