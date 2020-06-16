@@ -1,4 +1,8 @@
 # UASPSDAHarnanda
+HARNANDA RAFIKA ANJANI (1910512021) KELAS A (harnandarafika@gmail.com)
+
+DESKRIPSI DAN DOKUMENTASI PROGRAM
+
 Program ini dibuat untuk memenuhi penilaian PSDA. 
 Program ini memiliki menu yang memiliki bebrapa fungsi aksi, yaitu insert, tampilkan data(output), search, cari bilangan terbesar, cari bilangan terkecil, hapus data, reset data, dan keluar.
 Sesuai namanya, setiap fungsi aksi memiliki kegunaan yaitu:
